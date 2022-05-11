@@ -1,5 +1,6 @@
 # POWER-Shell
 POWER Shell is a shell created with Python by AzizBgBoss. Latest version: 0.1b<br>
+<h1>THE FILE SHOULDN'T HAVE ANY VIRUSES/TROJANS. ALLOW THE TROJAN ON YOUR WINDOWS DEFENDER AFTER CHECKING THE SOURCE IN VIRUSTOTAL.COM</h1><br>
 <h1>Versions:</h1>
 <h2>0.1b: Start of the beta phase:</h2><br>
 <h3>Commands:</h3><br>
