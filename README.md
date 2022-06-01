@@ -13,6 +13,7 @@ POWER Shell is a shell created with Python by AzizBgBoss. Latest version: 0.1b<b
 <h2>0.2b:</h2><br>
 <h3>What's new?</h3><br>
 Added a new <b>history</b> system, where history is kept in a <i>.his</i> file.<br>
+Added file editing system.<br>
 <h3>New commands:</h3><br>
 <b>history clear:</b> Clears the history.<br>
 <b>fappend *file name* *content*:</b> appends data to a file.<br>
