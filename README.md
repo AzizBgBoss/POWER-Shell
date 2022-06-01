@@ -10,3 +10,11 @@ POWER Shell is a shell created with Python by AzizBgBoss. Latest version: 0.1b<b
 <b>var *variable* = *value*</b>: defines a variable.<br>
 <b>var *variable*</b>: prints the value of a variable.<br>
 <b>history</b>: shows you the commands history.<br>
+<h2>0.2b:</h2><br>
+<h3>What's new?</h3><br>
+Added a new <b>history</b> system, where history is kept in a <i>.his</i> file.<br>
+<h3>New commands:</h3><br>
+<b>history clear:</b> Clears the history.<br>
+<b>fappend *file name* *content*:</b> appends data to a file.<br>
+<b>fdelete *file name*:</b> deletes a file.<br>
+<b>fread *file name*:</b> prints the content of a file.<br>
