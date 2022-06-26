@@ -27,11 +27,11 @@ Added <b>DEBUG</b>ing system which you can toggle (boolean) to see Python errors
 Added user input <b>read</b>ing system where the answer is saved in a variable.<br>
 Added working changeable <b>dir</b>ectory system, but the .his (History) file is still saved in the POWER-Shell.exe executable main directory.<br>
 <h3>New commands:</h3><br>
-<b>wait *milliseconds*:</b> waits :D.
-<b>script *file name*:</b> runs the script in a file.
-<b>ndebug *boolean*:</b> shows Python fatal error when possible.
-<b>read *var* *line*:</b> prints *line* and save user answer in *var*.
-<b>dir *path*:</b> change the file directory path (enter whole path (c:/.../folder)).
+<b>wait *milliseconds*:</b> waits :D.<br>
+<b>script *file name*:</b> runs the script in a file.<br>
+<b>ndebug *boolean*:</b> shows Python fatal error when possible.<br>
+<b>read *var* *line*:</b> prints *line* and save user answer in *var*.<br>
+<b>dir *path*:</b> change the file directory path (enter whole path (c:/.../folder)).<br>
 <h3>Note:</h3><br>
 - Some commands (like: DEBUG) can't be executed in a script file. Since it's out of the executing function, will be fixed soon...<br>
 - A huge improvement in executement will be done and will start the official versions phase.<br>
